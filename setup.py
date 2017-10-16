@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='toshi-services',
+    name='toshiservices',
     version='0.0.1',
     author='Tristan King',
     author_email='tristan.king@gmail.com',
