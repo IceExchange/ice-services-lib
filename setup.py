@@ -6,7 +6,7 @@ setup(
     author='Tristan King',
     author_email='tristan.king@gmail.com',
     packages=['toshi'],
-    url='http://github.com/toshiapp/toshi-services-lib',
+    url='http://github.com/IceExchange/ice-services-lib',
     description='',
     long_description=open('README.md').read(),
     setup_requires=['pytest-runner'],
